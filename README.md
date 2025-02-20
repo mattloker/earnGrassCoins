@@ -1,4 +1,4 @@
-# Earn Grass Coins on Raspberry Pi for Passiv Earnings
+# Earn Grass Coins on Raspberry Pi for passive Earnings
 If you’re looking for a way to passively earn Grass Coins using your Raspberry Pi, this guide will walk you through every step. I personally tested this method on my Raspberry Pi and found it to be stable and efficient.
 
 Initially, I attempted to install the GetGrass Desktop Version for Linux, which offers a 2x points boost, but unfortunately, it failed to work on my setup. As a result, I opted for the Grass Community Extension on Chromium, which operates at a 1.25x boost. Despite this, the setup runs smoothly with an average temperature of 55°C—even without passive or active cooling. I run my grass node on a Raspberry Pi 3+ 1GB
