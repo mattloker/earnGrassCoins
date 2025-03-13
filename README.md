@@ -68,7 +68,7 @@ Since the Grass Desktop Version did not work for me, I used the Grass Community 
 
 # Performance and Stability
 
-After running this setup for several hours, I can confirm that it works stably on the Raspberry Pi. The device maintains an average temperature of 55-65°C without any passive or active cooling. This means you can safely leave your Raspberry Pi running 24/7 without worrying about overheating.
+After running this setup for several weeks, I can confirm that it works stably on the Raspberry Pi. The device maintains an average temperature of 55-65°C without any passive or active cooling. With cooling the average temperature ist between 45-55°C. This means you can safely leave your Raspberry Pi running 24/7 without worrying about overheating.
 
 
 
