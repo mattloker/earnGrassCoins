@@ -76,12 +76,22 @@ After running this setup for several hours, I can confirm that it works stably o
 
 Since the Raspberry Pi is already running Chromium, you can also install additional passive income nodes to maximize your earnings. Here are a few other nodes I personally run on my Raspberry Pi:
 
-1. Gradient Network – AI computing power sharing (🔗 [Sign up with my referral link](https://app.gradient.network/signup?code=ZQSJY6))
-2. Nodepay – Passive income through decentralized financial services (🔗 [Join Nodepay here](https://app.nodepay.ai/register?ref=NDUvP8Rlp5dPyNq))
-3. Openloop – Blockchain-powered computing rewards (🔗 [Register for Openloop](https://openloop.so/auth/register?ref=old415f48e))
+1. Gradient Network – AI computing power sharing (🔗 [Join Gradient Network](https://app.gradient.network/signup?code=ZQSJY6))
+2. Nodepay – Passive income through decentralized financial services (🔗 [Join Nodepay](https://app.nodepay.ai/register?ref=NDUvP8Rlp5dPyNq))
+3. Openloop – Blockchain-powered computing rewards (🔗 [Join Openloop](https://openloop.so/auth/register?ref=old415f48e))
 4. Bless Network – Decentralized network rewards (🔗 [Join Bless Network](https://bless.network/dashboard?ref=973E48))
+5. MystNodes Network – Open Web Protocol (🔗 [Join MystNode Network](https://mystnodes.co/?referral_code=BUmKWB7kB6eiejJETzeSbglOId0Lp3etFY8xkaAK))
 
-Don't overload your chrome with extensions. These are the nodes that are running stable on my setup without heating up the Pi to much. 
+Read this to setup the MystNode on your Pi:
+
+1.  [Updating your node](https://help.mystnodes.com/en/articles/8005521-updating-your-node))
+2.  [Installing a Mysterium node using install script](https://help.mystnodes.com/en/articles/4531779-installing-a-mysterium-node-using-install-script)
+
+During this process, you won't be able to access the internet. 
+To fix it, use "sudo cat /etc/resolv.conf" and then
+"sudo resolvconf -u"
+"sudo resolvconf -a"
+"sudo resolvconf -d"
 
 
 
