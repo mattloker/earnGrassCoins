@@ -80,7 +80,7 @@ Since the Raspberry Pi is already running Chromium, you can also install additio
 2. Nodepay – Passive income through decentralized financial services (🔗 [Join Nodepay](https://app.nodepay.ai/register?ref=NDUvP8Rlp5dPyNq))
 3. Openloop – Blockchain-powered computing rewards (🔗 [Join Openloop](https://openloop.so/auth/register?ref=old415f48e))
 4. Bless Network – Decentralized network rewards (🔗 [Join Bless Network](https://bless.network/dashboard?ref=973E48))
-5. MystNodes Network – Open Web Protocol (🔗 [Join MystNode Network](https://mystnodes.co/?referral_code=BUmKWB7kB6eiejJETzeSbglOId0Lp3etFY8xkaAK))
+5. MystNodes Network – Open Web Protocol (🔗 [Get a 5% Bonus in your first Month](https://mystnodes.co/?referral_code=BUmKWB7kB6eiejJETzeSbglOId0Lp3etFY8xkaAK))
 
 Read this to setup the MystNode on your Pi:
 
