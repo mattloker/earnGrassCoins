@@ -101,6 +101,4 @@ If you’re looking for a low-power, passive income setup, running the Grass Com
 
 Since Chromium is already running, you can install multiple nodes to diversify your passive income. If you’re interested in earning more, consider adding the Gradient Network, Nodepay, Openloop, and Bless Network to your setup.
 
-💰 Sign up today using my referral link → Join [GetGrass.io](http://GetGrass.io) and earn 5,000 bonus points after 100 hours of uptime!
-
-Happy earning! 🚀
+💰 Happy earning! 🚀
