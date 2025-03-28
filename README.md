@@ -93,6 +93,6 @@ Read this to setup the MystNode on your Pi:
 
 If you’re looking for a low-power, passive income setup, running the Grass Community Extension on Raspberry Pi is a great option. While the Linux Desktop Version didn’t work for me, this Chromium-based method is a reliable alternative.
 
-Since Chromium is already running, you can install multiple nodes to diversify your passive income. If you’re interested in earning more, consider adding the Gradient Network, Nodepay, Openloop, and Bless Network to your setup.
+Since Chromium is already running, you can install multiple nodes to diversify your passive income. If you’re interested in earning more, consider adding the Gradient Network, Nodepay, Bless Network and MystNodes Network to your setup.
 
 💰 Happy earning! 🚀
