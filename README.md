@@ -72,6 +72,36 @@ After running this setup for several weeks, I can confirm that it works stably o
 
 
 
+# Pro Tip: Launch Chromium on startup
+
+If you want to launch Chromium on startup just modify the Exec line in your chromium.desktop file:
+
+1. Open a terminal & run 
+```
+mkdir -p ~/.config/autostart"
+```
+2. Create a .desktop file with: 
+```
+nano ~/.config/autostart/chromium.desktop
+```
+3. Paste the following:
+```
+[Desktop Entry]
+Type=Application
+Exec=chromium-browser
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Chromium
+Comment=Start Chromium on login
+```
+4. Save and exit (Ctrl+O, then Enter, then Ctrl+X)
+5. to reboot the system to check if chormium lunches on startup run
+```
+sudo reboot
+```
+
+
 # Maximizing Earnings: Other Passive Income Nodes on Raspberry Pi
 
 Since the Raspberry Pi is already running Chromium, you can also install additional passive income nodes to maximize your earnings. Here are a few other nodes I personally run on my Raspberry Pi:
@@ -84,7 +114,10 @@ Since the Raspberry Pi is already running Chromium, you can also install additio
 Read this to setup the MystNode on your Pi:
 
 1. [Updating your node](https://help.mystnodes.com/en/articles/8006202-raspberry-pi-guide) 
-(After "Install a Mysterium node" you won't be able to access the internet becasue resolving the IP is not working. To fix it, use "sudo cat /etc/resolv.conf && sudo resolvconf -u".
+(After "Install a Mysterium node" you won't be able to access the internet becasue resolving the IP is not working. To fix it, use
+```
+sudo cat /etc/resolv.conf && sudo resolvconf -u
+```
 2. To check if the Node i running check this commands [Installing a Mysterium node using install script](https://help.mystnodes.com/en/articles/4531779-installing-a-mysterium-node-using-install-script)
 
 
