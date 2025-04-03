@@ -78,7 +78,7 @@ If you want to launch Chromium on startup just modify the Exec line in your chro
 
 1. Open a terminal & run 
 ```
-mkdir -p ~/.config/autostart"
+mkdir -p ~/.config/autostart
 ```
 2. Create a .desktop file with: 
 ```
