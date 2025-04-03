@@ -118,7 +118,7 @@ Read this to setup the MystNode on your Pi:
 ```
 sudo cat /etc/resolv.conf && sudo resolvconf -u
 ```
-2. To check if the Node i running check this commands [Installing a Mysterium node using install script](https://help.mystnodes.com/en/articles/4531779-installing-a-mysterium-node-using-install-script)
+2. To check if the Node is running check this commands [Installing a Mysterium node using install script](https://help.mystnodes.com/en/articles/4531779-installing-a-mysterium-node-using-install-script)
 
 
 
