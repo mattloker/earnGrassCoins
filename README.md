@@ -96,7 +96,7 @@ Name=Chromium
 Comment=Start Chromium on login
 ```
 4. Save and exit (Ctrl+O, then Enter, then Ctrl+X)
-5. to reboot the system to check if chormium lunches on startup run
+5. to reboot the system to check if Chromium lunches on startup, just run
 ```
 sudo reboot
 ```
