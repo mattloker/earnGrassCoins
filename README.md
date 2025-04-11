@@ -114,7 +114,7 @@ Since the Raspberry Pi is already running Chromium, you can also install additio
 Read this to setup the MystNode on your Pi:
 
 1. [Updating your node](https://help.mystnodes.com/en/articles/8006202-raspberry-pi-guide) 
-(After "Install a Mysterium node" you won't be able to access the internet becasue resolving the IP is not working. To fix it, use
+(After "Install a Mysterium node" you won't be able to access the internet because resolving the IP is not working. To fix it, use
 ```
 sudo cat /etc/resolv.conf && sudo resolvconf -u
 ```
