@@ -110,7 +110,10 @@ Since the Raspberry Pi is already running Chromium, you can also install additio
 2. Nodepay – Passive income through decentralized financial services (🔗 [Join Nodepay](https://app.nodepay.ai/register?ref=NDUvP8Rlp5dPyNq))
 3. Bless Network – Decentralized network rewards (🔗 [Join Bless Network](https://bless.network/dashboard?ref=973E48))
 4. MystNodes Network – Open Web Protocol (🔗 [Get a 5% Bonus in your first Month](https://mystnodes.co/?referral_code=BUmKWB7kB6eiejJETzeSbglOId0Lp3etFY8xkaAK))
-
+5. DeSpeed Validator – Earn rewards by contributing to the DeSpeed network (🔗 [Join DeSpeed network](https://app.despeed.net/register?ref=1FJLEY5Qp0pH))
+6. Teneo Community Node – Earn rewards by powering decentralized AI (🔗 [Get 1,000 Extra Teneo Points](https://dashboard.teneo.pro/auth/signup?referralCode=usO74))
+7. Kaisar ZeroNode – Transform your compute power into real earnings (🔗 [Get Kaisar ZeroNode](https://zero.kaisar.io/register?ref=cJPnkl980))
+ 
 Read this to setup the MystNode on your Pi:
 
 1. [Updating your node](https://help.mystnodes.com/en/articles/8006202-raspberry-pi-guide) 
